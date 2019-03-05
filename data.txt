@@ -1,0 +1,142 @@
+no upsets:
+Score: 50+ Prob: 0.303677
+Score: 45+ Prob: 0.516398
+Score: 40+ Prob: 0.720573
+
+just 9s:
+Score: 51+ Prob: 0.263742
+Score: 50+ Prob: 0.264661
+Score: 49+ Prob: 0.272802
+Score: 48+ Prob: 0.327091
+Score: 47+ Prob: 0.420013
+Score: 46+ Prob: 0.466313
+Score: 45+ Prob: 0.471431
+Score: 44+ Prob: 0.475171
+Score: 43+ Prob: 0.511162
+Score: 42+ Prob: 0.601168
+Score: 41+ Prob: 0.669637
+Score: 40+ Prob: 0.68243
+Score: 39+ Prob: 0.683607
+Score: 38+ Prob: 0.700144
+
+just 10s:
+Score: 51+ Prob: 0.268312
+Score: 50+ Prob: 0.269232
+Score: 49+ Prob: 0.296887
+Score: 48+ Prob: 0.342767
+Score: 47+ Prob: 0.343594
+Score: 46+ Prob: 0.429151
+Score: 45+ Prob: 0.435273
+Score: 44+ Prob: 0.44988
+Score: 43+ Prob: 0.529753
+Score: 42+ Prob: 0.529946
+Score: 41+ Prob: 0.595653
+Score: 40+ Prob: 0.613821
+Score: 39+ Prob: 0.619061
+Score: 38+ Prob: 0.709408
+Score: 37+ Prob: 0.709434
+Score: 36+ Prob: 0.744139
+
+just 11s:
+Score: 50+ Prob: 0.35935
+Score: 45+ Prob: 0.5372
+Score: 40+ Prob: 0.710153
+
+just 12s:
+Score: 54+ Prob: 0.276384
+Score: 53+ Prob: 0.276407
+Score: 52+ Prob: 0.317848
+Score: 51+ Prob: 0.322525
+Score: 50+ Prob: 0.323444
+Score: 49+ Prob: 0.384852
+Score: 48+ Prob: 0.384853
+Score: 47+ Prob: 0.464757
+Score: 46+ Prob: 0.465999
+Score: 45+ Prob: 0.472705
+Score: 44+ Prob: 0.509234
+Score: 42+ Prob: 0.609901
+Score: 41+ Prob: 0.610096
+Score: 40+ Prob: 0.632011
+Score: 39+ Prob: 0.646849
+Score: 37+ Prob: 0.733445
+Score: 36+ Prob: 0.733459
+
+11s and 12s:
+Score: 54+ Prob: 0.305119
+Score: 53+ Prob: 0.305172
+Score: 52+ Prob: 0.353387
+Score: 51+ Prob: 0.359453
+Score: 50+ Prob: 0.365504
+Score: 49+ Prob: 0.417087
+Score: 48+ Prob: 0.417092
+Score: 47+ Prob: 0.486008
+Score: 46+ Prob: 0.48814
+Score: 45+ Prob: 0.502236
+Score: 44+ Prob: 0.5391
+Score: 42+ Prob: 0.618134
+Score: 41+ Prob: 0.618579
+Score: 40+ Prob: 0.644076
+Score: 39+ Prob: 0.663323
+Score: 37+ Prob: 0.736065
+Score: 36+ Prob: 0.736106
+
+10s, 11s, and 12s:
+Score: 56+ Prob: 0.263725
+Score: 55+ Prob: 0.289687
+Score: 54+ Prob: 0.302815
+Score: 53+ Prob: 0.327995
+Score: 52+ Prob: 0.351577
+Score: 51+ Prob: 0.369228
+Score: 50+ Prob: 0.398153
+Score: 49+ Prob: 0.41297
+Score: 48+ Prob: 0.443153
+Score: 47+ Prob: 0.468129
+Score: 46+ Prob: 0.486376
+Score: 45+ Prob: 0.517674
+Score: 44+ Prob: 0.533339
+Score: 43+ Prob: 0.565322
+Score: 42+ Prob: 0.588663
+Score: 41+ Prob: 0.606297
+Score: 40+ Prob: 0.63873
+Score: 39+ Prob: 0.653891
+Score: 38+ Prob: 0.683951
+Score: 37+ Prob: 0.702543
+Score: 36+ Prob: 0.719076
+
+9s, 11s, and 12s:
+Score: 56+ Prob: 0.272012
+Score: 55+ Prob: 0.303115
+Score: 54+ Prob: 0.323475
+Score: 53+ Prob: 0.333796
+Score: 52+ Prob: 0.348883
+Score: 51+ Prob: 0.376903
+Score: 50+ Prob: 0.413446
+Score: 49+ Prob: 0.447059
+Score: 48+ Prob: 0.464989
+Score: 47+ Prob: 0.475299
+Score: 46+ Prob: 0.495984
+Score: 45+ Prob: 0.531381
+Score: 44+ Prob: 0.570874
+Score: 43+ Prob: 0.600046
+Score: 42+ Prob: 0.612981
+Score: 41+ Prob: 0.623415
+Score: 40+ Prob: 0.648462
+Score: 39+ Prob: 0.686716
+Score: 38+ Prob: 0.720991
+Score: 37+ Prob: 0.741227
+Score: 36+ Prob: 0.74889
+
+all upsets:
+Score: 58+ Prob: 0.258257
+Score: 56+ Prob: 0.297949
+Score: 54+ Prob: 0.339297
+Score: 52+ Prob: 0.382457
+Score: 50+ Prob: 0.429505
+Score: 48+ Prob: 0.476197
+Score: 46+ Prob: 0.522691
+Score: 44+ Prob: 0.571424
+Score: 42+ Prob: 0.618512
+Score: 40+ Prob: 0.663473
+Score: 38+ Prob: 0.708449
+Score: 36+ Prob: 0.749254
+
