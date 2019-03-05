@@ -22,10 +22,10 @@ int main(void) {
             10,10,
             12,12,12,12}};
 
-    bool pick_better_seed[14] = {0,0,0,0,
-        0,0,0,0,
-        0,0,
-        0,0,0,0};
+    bool pick_better_seed[14] = {1,1,1,1,
+        1,1,1,1,
+        1,1,
+        1,1,1,1};
 
     bool matches_prediction[14] = {1,1,1,1,1,1,1,1,1,1,1,1,1,1};
     bool done = false;
@@ -59,8 +59,8 @@ int main(void) {
     double running_sum = 0;
     for(auto i = probabilities.begin(); i != probabilities.end(); i++) {
         running_sum += i->second;
-        if(running_sum > 0.25 && running_sum < 0.75) {
-            cout<<"Score: "<<-1 * i->first<<"+ Prob: "<<running_sum<<endl;
+        if(running_sum > 0 && running_sum < 1) {
+            cout<<"Score: "<<-1 * i->first<<" Prob: "<<running_sum<<endl;
         }
     }
 

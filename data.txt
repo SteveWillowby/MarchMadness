@@ -140,3 +140,8 @@ Score: 40+ Prob: 0.663473
 Score: 38+ Prob: 0.708449
 Score: 36+ Prob: 0.749254
 
+And for a recap:
+no upsets:
+Score: 50+ Prob: 0.303677
+Score: 45+ Prob: 0.516398
+Score: 40+ Prob: 0.720573
